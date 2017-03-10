@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "9fbd169e3a7cb6a074a328b6d0f7076ffd69995c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "grpc.server/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.2.0",
+          "Grpc": "1.1.0"
+        },
+        "runtime": {
+          "Grpc.Server.dll": {}
+        }
+      },
+      "google.protobuf/3.2.0": {
+        "runtime": {
+          "lib/netstandard1.0/Google.Protobuf.dll": {}
+        }
+      },
+      "grpc/1.1.0": {
+        "dependencies": {
+          "Grpc.Core": "1.1.0"
+        }
+      },
+      "grpc.core/1.1.0": {
+        "dependencies": {
+          "System.Interactive.Async": "3.1.1"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Grpc.Core.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux/native/libgrpc_csharp_ext.x64.so": {
+            "rid": "linux",
+            "assetType": "native"
+          },
+          "runtimes/linux/native/libgrpc_csharp_ext.x86.so": {
+            "rid": "linux",
+            "assetType": "native"
+          },
+          "runtimes/osx/native/libgrpc_csharp_ext.x64.dylib": {
+            "rid": "osx",
+            "assetType": "native"
+          },
+          "runtimes/osx/native/libgrpc_csharp_ext.x86.dylib": {
+            "rid": "osx",
+            "assetType": "native"
+          },
+          "runtimes/win/native/grpc_csharp_ext.x64.dll": {
+            "rid": "win",
+            "assetType": "native"
+          },
+          "runtimes/win/native/grpc_csharp_ext.x86.dll": {
+            "rid": "win",
+            "assetType": "native"
+          }
+        }
+      },
+      "system.interactive.async/3.1.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Interactive.Async.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "grpc.server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "google.protobuf/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qwqIqIWLdQOD/uyh5Kitz1R1RovK1cF4VgBVbVZEHAKLmLqKZJ2Lgx8KGeD8Sua5+2IvKEzNEqv7dHFcwA9Ueg==",
+      "path": "google.protobuf/3.2.0",
+      "hashPath": "google.protobuf.3.2.0.nupkg.sha512"
+    },
+    "grpc/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VX/yiISpQUdokowealSFMiF6tzdoOwHgGJFitoijY1apWavlIfctL5PPtd7bSPUd+2CzWRI1b5dw5i6tpVPbXA==",
+      "path": "grpc/1.1.0",
+      "hashPath": "grpc.1.1.0.nupkg.sha512"
+    },
+    "grpc.core/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0QDe2A9eVWv8wBJMdUe+/f3J/r2Kv2B7oteJ0gmQihDMuXsygyklhT/DBDCDPqiwE3uOCCUk/jXCjRbIiU3ijA==",
+      "path": "grpc.core/1.1.0",
+      "hashPath": "grpc.core.1.1.0.nupkg.sha512"
+    },
+    "system.interactive.async/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hZccYiIE5RS1/J9Tb/BNtosAGVggdlsJm4Ojdu+gDV0p4AIi+LUfUogMKkRacljQEJd2AG6vYzvcjhQFkqoZmw==",
+      "path": "system.interactive.async/3.1.1",
+      "hashPath": "system.interactive.async.3.1.1.nupkg.sha512"
+    }
+  }
+}

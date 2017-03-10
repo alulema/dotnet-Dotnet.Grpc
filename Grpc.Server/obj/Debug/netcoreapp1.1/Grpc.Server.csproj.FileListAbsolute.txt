@@ -1,0 +1,11 @@
+/Users/alexis/Downloads/Projects/Grpc.Server/bin/Debug/netcoreapp1.1/Grpc.Server.deps.json
+/Users/alexis/Downloads/Projects/Grpc.Server/bin/Debug/netcoreapp1.1/Grpc.Server.runtimeconfig.json
+/Users/alexis/Downloads/Projects/Grpc.Server/bin/Debug/netcoreapp1.1/Grpc.Server.runtimeconfig.dev.json
+/Users/alexis/Downloads/Projects/Grpc.Server/bin/Debug/netcoreapp1.1/Grpc.Server.dll
+/Users/alexis/Downloads/Projects/Grpc.Server/bin/Debug/netcoreapp1.1/Grpc.Server.pdb
+/Users/alexis/Downloads/Projects/Grpc.Server/obj/Debug/netcoreapp1.1/Grpc.Server.AssemblyInfo.cs
+/Users/alexis/Downloads/Projects/Grpc.Server/obj/Debug/netcoreapp1.1/Grpc.Server.dll
+/Users/alexis/Downloads/Projects/Grpc.Server/obj/Debug/netcoreapp1.1/Grpc.Server.pdb
+/Users/alexis/Downloads/Projects/Grpc.Server/bin/Debug/netcoreapp1.1/Keys/ca.crt
+/Users/alexis/Downloads/Projects/Grpc.Server/bin/Debug/netcoreapp1.1/Keys/server.crt
+/Users/alexis/Downloads/Projects/Grpc.Server/bin/Debug/netcoreapp1.1/Keys/server.key

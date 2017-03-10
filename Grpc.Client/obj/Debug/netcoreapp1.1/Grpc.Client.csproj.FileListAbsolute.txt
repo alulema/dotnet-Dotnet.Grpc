@@ -1,0 +1,8 @@
+/Users/alexis/Downloads/Projects/Grpc.Client/bin/Debug/netcoreapp1.1/Grpc.Client.deps.json
+/Users/alexis/Downloads/Projects/Grpc.Client/bin/Debug/netcoreapp1.1/Grpc.Client.runtimeconfig.json
+/Users/alexis/Downloads/Projects/Grpc.Client/bin/Debug/netcoreapp1.1/Grpc.Client.runtimeconfig.dev.json
+/Users/alexis/Downloads/Projects/Grpc.Client/bin/Debug/netcoreapp1.1/Grpc.Client.dll
+/Users/alexis/Downloads/Projects/Grpc.Client/bin/Debug/netcoreapp1.1/Grpc.Client.pdb
+/Users/alexis/Downloads/Projects/Grpc.Client/obj/Debug/netcoreapp1.1/Grpc.Client.AssemblyInfo.cs
+/Users/alexis/Downloads/Projects/Grpc.Client/obj/Debug/netcoreapp1.1/Grpc.Client.dll
+/Users/alexis/Downloads/Projects/Grpc.Client/obj/Debug/netcoreapp1.1/Grpc.Client.pdb
